@@ -1,0 +1,4 @@
+#add ignore dirs and files
+
+node_modules/
+dist/
