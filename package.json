@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "\"# imageProcessingAPI\"",
   "main": "index.js",
-  "type": "module",
   "scripts": {
     "lint": "eslint . --ext .ts",
     "prettier": "prettier --config .prettierrc \"src/**/*.ts\" --write",
